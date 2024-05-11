@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanShirley
-- 👀 I’m interested in Django, Flutter, no-limit holdem, 
-- 🌱 I’m currently learning Flutter/Dart
+- 👀 I’m interested in Django, Flutter, Spark
+- 🌱 I’m currently learning Flutter/Dart, Django
 - 💞️ I’m looking to collaborate on mobile apps, SaaS projects
 - 📫 How to reach me @ryantshirley on Twitter
 
